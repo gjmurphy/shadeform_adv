@@ -1,0 +1,189 @@
+*****X*****
+1
+*Y*
+0
+*LONGDESC*
+You're standing in the Engineering Bay.
+*DOORDESC*
+is the Engineering Bay.
+*LCK*
+0
+*ACCESS*
+N
+*ACTION*
+0
+*ACTION*
+4
+*ACTION*
+1
+*FIN*
+*****X*****
+0
+*Y*
+1
+*LONGDESC*
+You're standing in the southwest section of the Main Corridor.
+*DOORDESC*
+is the southwest section of the Main Corridor.
+*LCK*
+0
+*ACCESS*
+NE
+*ACTION*
+3
+*FIN*
+*****X*****
+1
+*Y*
+1
+*LONGDESC*
+You're standing in the south section of the Main Corridor.
+*DOORDESC*
+is the south section of the Main Corridor. 
+*LCK*
+1
+*LCKDESC*
+is the *closed* door to the the Main Corridor.
+*ACCESS*
+NSEW
+*ACTION*
+2
+*FIN*
+*****X*****
+2
+*Y*
+1
+*LONGDESC*
+You're standing in the southeast section of the Main Corridor.
+*DOORDESC*
+is the southeast section of the Main Corridor.
+*LCK*
+0
+*ACCESS*
+NW
+*FIN*
+*****X*****
+0
+*Y*
+2
+*LONGDESC*
+You're standing in the west section of the Main Corridor.
+*DOORDESC*
+is the west section of the Main Corridor.
+*LCK*
+0
+*ACCESS*
+NS
+*ACTION*
+5
+*FIN*
+*****X*****
+1
+*Y*
+2
+*LONGDESC*
+You're standing in the Circuitry Bay.
+*DOORDESC*
+is the Circuitry Bay.
+*LCK*
+1
+*LCKDESC*
+is the *locked* access panel to the Circuitry Bay.
+*ACCESS*
+S
+*ACTION*
+8
+*FIN*
+*****X*****
+2
+*Y*
+2
+*LONGDESC*
+You're standing in the east section of the Main Corridor.
+*DOORDESC*
+is the east section of the Main Corridor.
+*LCK*
+0
+*ACCESS*
+NS
+*FIN*
+*****X*****
+0
+*Y*
+3
+*LONGDESC*
+You're standing in the Primary Holding Area.
+*DOORDESC*
+is the Primary Holding Area.
+*LCK*
+0
+*ACCESS*
+SE
+*ACTION*
+7
+*FIN*
+*****X*****
+1
+*Y*
+3
+*LONGDESC*
+You're standing in the Loading Room.
+*DOORDESC*
+is the loading room.
+*LCK*
+0
+*ACCESS*
+W
+*ACTION*
+6
+*FIN*
+*****X*****
+2
+*Y*
+3
+*LONGDESC*
+You're standing in the northeast section of the Main Corridor.
+*DOORDESC*
+is the northeast section of the main corridor.
+*LCK*
+0
+*ACCESS*
+SE
+*ACTION*
+3
+*ACTION*
+5
+*FIN*
+*****X*****
+3
+*Y*
+3
+*LONGDESC*
+You're standing in the Cockpit Access Corridor.
+*DOORDESC*
+is the Cockpit Access Corridor.
+*LCK*
+0
+*ACCESS*
+NW
+*FIN*
+*****X*****
+3
+*Y*
+4
+*LONGDESC*
+You're standing in the Cockpit.
+*DOORDESC*
+is the Cockpit.
+*LCK*
+1
+*LCKDESC*
+is the *locked* door to the Cockpit.
+*ACCESS*
+S
+*ACTION*
+9
+*ACTION*
+10
+*FIN*
+

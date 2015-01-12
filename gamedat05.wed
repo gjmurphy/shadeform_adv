@@ -1,0 +1,266 @@
+*TYP*
+1
+*DESC*
+There is an airvent on one of the walls that is making an odd noise.
+Probably another one of those stupid wookie hairballs...Maybe you should check it out.
+*CONA*
+check
+open
+examine
+clean
+look
+bang
+fix
+inpsect
+*CONB*
+vent
+airvent
+duct
+grate
+*ENMSG*
+When you inspect the airvent, you find a small loose wire caught on the back
+of the grate. Not a wookie hairball this time.
+You remember that you can check your storage compartment by typing 'inventory'.
+*RWRD*
+1
+*RWRDQ*
+1
+*FIN*
+*TYP*
+0
+*DESC*
+The door's access panel is blinking on and off.
+If you find the right part you should be able to fix the access panel.
+*CONA*
+use
+fix
+put
+attach
+solder
+plug
+repair
+*CONB*
+access
+panel
+*ITMCON*
+loose_wire
+*ENMSG*
+After fixing the door access panel, the door to the Main Corridor slides open. 
+Now seems like a good time to type 'save' before you continue on through the door.
+*RWRD*
+2
+*FIN*
+*TYP*
+1
+*DESC*
+Theres a crumpled fastfood bag on the floor. I think you're the only one who cleans up around here.
+*CONA*
+clean
+open
+get
+check
+pick
+pickup
+throw
+put
+away
+*CONB*
+fast
+food
+fastfood
+bag
+trash
+*ENMSG*
+While cleaning it up, you notice there is still some uneaten force nuggets leftover!
+You remember that typing 'examine' plus the item's name will tell you more about it.
+Example: Try typing 'examine force_nugget'
+
+Also...You begin detecting a strange rustling sound in the next corridor section to your left.
+*RWRD*
+2
+*RWRDQ*
+3
+*FIN*
+*TYP*
+2
+*DESC*
+As you enter, you hear something rustling underneath the floor panel...
+Before you can do anything, the panel bursts open and a stowaway womprat jumps out!
+Looks like it's a FIGHT!
+*ENMSG*
+You beat the Womprat! Yay! 
+While inspecting the carcass you notice the womprat is wearing a collar with "Jar Jar" written on it.
+Must've been one of Jar Jar's pets instead of a stowaway. That means that there may be more of them....!
+*RWRD*
+2
+*ENMY*
+0
+*FIN*
+*TYP*
+3
+*DESC*
+The "LOW FUEL" alarm is going off. You'll need to find some fuel and add fuel to the hyperdrive
+*CONA*
+add
+refuel
+fuel
+refill
+fill
+giant
+wookie
+hairball
+giant_wookie_hairball
+*CONB*
+hyperdrive
+hyper
+drive
+engine
+core
+*ITMCON*
+giant_wookie_hairball
+*ENMSG*
+Congrats! You Won the game! Jar Jar is dead and the Millennium Falcon is traveling back towards Solo.
+
+Thanks for playing!
+
+Game design and programming by Gabriel Murphy
+2014
+
+*FIN*
+*TYP*
+1
+*DESC*
+There is an airvent on one of the walls that is making an odd noise.
+Gotta be another one of those stupid wookie hairballs...
+*CONA*
+check
+open
+examine
+clean
+look
+bang
+fix
+inpsect
+*CONB*
+vent
+airvent
+duct
+grate
+*ENMSG*
+Yep. Of course. Another stupid Wookie hairball. You're so sick of cleaning these up.
+*RWRD*
+0
+*RWRDQ*
+1
+*FIN*
+*TYP*
+1
+*DESC*
+Theres another crumpled fastfood bag on the floor...
+*CONA*
+clean
+open
+get
+check
+pick
+pickup
+throw
+put
+away
+*CONB*
+fast
+food
+fastfood
+bag
+trash
+*ENMSG*
+While cleaning it up, you notice there is still some uneaten force nuggets leftover!
+*RWRD*
+2
+*RWRDQ*
+3
+*FIN*
+*TYP*
+0
+*DESC*
+Of course! The computer terminal in here could be hacked to unlock the door to the Circuitry Bay.
+*CONA*
+hack
+use
+smash
+attack
+shoot
+login
+*CONB*
+computer
+terminal
+station
+keyboard
+*ENMSG*
+It worked! The Circuitry Bay is now open. You need to get there and get the cockpit open!
+*RWRD*
+5
+*FIN*
+*TYP*
+0
+*DESC*
+The wires and fuses are a tangled mess. Per your droid training, the best course of action is
+to zap it all. Zap all of the wires. That will definitely open the cockpit doors.
+*CONA*
+destroy
+shoot
+smash
+attack
+zap
+*CONB*
+wires
+fuses
+circuits
+*ENMSG*
+The distant laugh of a Gungan tells you the cockpit is now open.
+Strap up, soldier, er, droid.
+There's a Gungan problem on this ship, and it's time to do...Spring...Cleaning!
+*RWRD*
+11
+*FIN*
+*TYP*
+2
+*DESC*
+As you enter, Jar Jar turns around in a fit a rage. He leaps out the pilot chair towards you.
+This is it. All those years of cleaning. It has all been leading up to this. It is time.
+*ENMSG*
+Jar Jar shrieks, and the entire ship is filled with a ghostly bluish wind swirling from one end to other.
+Jar Jar's echoing wails are joined by the haunting sound of thousands of sinister voices in every direction.
+Just like that, it stops. Jar Jar is gone. Never to be seen again...
+*RWRD*
+0
+*ENMY*
+1
+*FIN*
+*TYP*
+1
+*DESC*
+A completely furless Chewbacca sits bound and unconscious in the co-pilots chair.
+You should probably check on him.
+*CONA*
+check
+help
+examine
+clean
+look
+untie
+*CONB*
+chewie
+chewbacca
+wookie
+*ENMSG*
+Well, he'll live. The cockpit logs show that after Chewie and Jar Jar got into an argument
+about who was the better comic-relief, Jar Jar retaliated by removing all of his fur.
+There is a GIANT wookie hairball in the corner.
+That could probably be used as fuel so the Falcon can return to Han Solo.
+*RWRD*
+3
+*RWRDQ*
+1
+*FIN*
+

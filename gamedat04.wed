@@ -1,0 +1,38 @@
+*TYP*
+3
+*TTL*
+wookie_hairball
+*MSG*
+The bane of my existance. I spend most of my time removing these from around the ship.
+*FIN*
+*TYP*
+0
+*TTL*
+loose_wire
+*MSG*
+Just a loose wire that can be used to repair certain things.
+*FIN*
+*TYP*
+1
+*POW*
+50
+*TTL*
+force_nugget
+*MSG*
+A tasty nugget of the force--Gluten free and packed with midichlorians. Heals 50HP.
+*KWR*
+use
+drink
+eat
+heal
+take
+*FIN*
+*TYP*
+0
+*TTL*
+giant_wookie_hairball
+*MSG*
+Biggest Wookie hairball you've ever seen. Can be used as fuel.
+*FIN*
+
+
