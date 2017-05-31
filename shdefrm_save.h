@@ -5,10 +5,10 @@
 
 #include<string>
 
-Player load_save_data ( int );
+Player load_save_data(int);
 
-void   save_game ( int, Player &playerRef );
+void   save_game(int, Player &playerRef);
 
-void remove_entry ( std::string &userId );
+void remove_entry(std::string &userId);
 
 #endif

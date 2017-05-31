@@ -14,34 +14,34 @@ class User
 
 private:
 
-  std::string username;
-  std::string password;
-  int         userId;
+	std::string username;
+	std::string password;
+	int         userId;
 
 public:
-  
-  // Prototypes
-  User                ( std::string u = "NULL", std::string p = "NULL", int uI = 2000 );
 
-  bool check_password ( std::string );
-  
-  // Defintions
-  std::string get_username      ()                    { return username; }
+	// Prototypes
+	User(std::string u = "NULL", std::string p = "NULL", int uI = 2000);
 
-  std::string get_password      ()                    { return password; }
+	bool check_password(std::string);
 
-  int         get_userid        ()                    { return userId; }
+	// Defintions
+	std::string get_username() { return username; }
 
-  void        change_username   ( std::string input ) { username = input; }
+	std::string get_password() { return password; }
 
-  void        change_password   ( std::string input ) { password = input; }
+	int         get_userid() { return userId; }
+
+	void        change_username(std::string input) { username = input; }
+
+	void        change_password(std::string input) { password = input; }
 
 };
 
-User login ( bool loginLimit = false, int numOfAttempts = 3 );
+User login(bool loginLimit = false, int numOfAttempts = 3);
 
-void update_username ( User &currentUser );
+void update_username(User &currentUser);
 
-bool update_password ( User &currentUser );
+bool update_password(User &currentUser);
 
 #endif
